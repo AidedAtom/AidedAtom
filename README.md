@@ -1,4 +1,4 @@
-  - wassup im aided
+   wassup im aided
   - learning c++
   - СМГ student
   - discord user: "promushkata"
